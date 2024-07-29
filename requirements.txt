@@ -1,0 +1,6 @@
+discord.py
+openai
+python-dotenv
+requests
+wolframalpha
+langchain

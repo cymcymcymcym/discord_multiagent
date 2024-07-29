@@ -1,0 +1,6 @@
+Begin by completing this json. I need to load this json in python, so remove all speical and control characters. you may end at "Observation" to wait for answer from the action agent and do not include futher keys in the json. 
+
+{{
+"Question": "{content}",
+"Actions": []
+}}
